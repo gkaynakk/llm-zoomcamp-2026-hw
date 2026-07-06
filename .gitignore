@@ -3,3 +3,4 @@
 faq.db*
 *.db
 *.db-wal
+.env.*.DS_Store
