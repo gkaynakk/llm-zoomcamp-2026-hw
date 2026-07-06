@@ -2,4 +2,4 @@
 .env
 faq.db*
 *.db
-*.db-wal
+*.db-wal.env*
