@@ -2,4 +2,5 @@
 .env
 faq.db*
 *.db
-*.db-wal.env*
+*.db-wal
+.env.*.DS_Store
